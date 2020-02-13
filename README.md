@@ -1,2 +1,0 @@
-# coredesi
-core desi
